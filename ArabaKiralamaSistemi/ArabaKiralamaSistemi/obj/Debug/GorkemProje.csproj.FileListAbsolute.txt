@@ -1,0 +1,9 @@
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\bin\Debug\GorkemProje.exe.config
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\bin\Debug\GorkemProje.exe
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\bin\Debug\GorkemProje.pdb
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.csprojAssemblyReference.cache
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.Form1.resources
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.Properties.Resources.resources
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.csproj.GenerateResource.cache
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.exe
+C:\Users\KARACA\source\repos\GorkemProje\GorkemProje\obj\Debug\GorkemProje.pdb
